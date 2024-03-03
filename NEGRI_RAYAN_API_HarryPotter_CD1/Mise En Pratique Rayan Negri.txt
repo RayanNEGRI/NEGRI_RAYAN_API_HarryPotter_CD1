@@ -1,0 +1,12 @@
+Question 1 :
+Méthode Post
+
+Question 2 :
+Méthode Put
+
+Question 3 :
+Méthode Get
+
+Question 4 :
+Méthode Delete
+
